@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @SEAFromJahu
-- 👀 I’m interested in Flutter/Dart
-- 🌱 I’m currently learning Flutter/Dart
-- 💞️ I’m looking to collaborate on every think that is related to Flutter/Dart 
-- 📫 How to reach me (sergio.e.antonio@gmail.com)
+- 📫 How to reach me (sea-56@hotmail.com)
 
 <!---
 SEAFromJahu/SEAFromJahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
